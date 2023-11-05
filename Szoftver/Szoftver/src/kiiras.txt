@@ -1,0 +1,10 @@
+1 | Adobe Photoshop 23.1 | fizetős | Windows, MacOS | grafikai szerkesztő | 9.4 | 599.99 | 9
+4 | Final Cut Pro 10.5 | fizetős | MacOS | videószerkesztő | 9.6 | 299.99 | 6
+5 | AutoCAD 2023 | fizetős | Windows, MacOS | cad szoftver | 9.200000000000001 | 1299.99 | 5
+6 | Adobe Illustrator 27 | fizetős | Windows, MacOS | vektorgrafikai szerkesztő | 9.3 | 249.99 | 6
+7 | Windows 11 Pro 11 | fizetős | Windows | operációs rendszer | 9 | 199.99 | 8
+8 | Logic Pro X 10.7 | fizetős | MacOS | hangszerkesztő | 9.5 | 199.99 | 6
+11 | Adobe Premiere Pro 27.1 | fizetős | Windows, MacOS | videószerkesztő | 9.5 | 299.99 | 7
+13 | CorelDRAW Graphics Suite 2023 | fizetős | Windows | grafikai szerkesztő | 9.3 | 499.99 | 6
+14 | Microsoft Windows 10 Home 10 | fizetős | Windows | operációs rendszer | 8.9 | 139.99 | 7
+15 | Adobe Acrobat Pro 2023 | fizetős | Windows, MacOS | pdf szerkesztő | 9.1 | 199.99 | 6

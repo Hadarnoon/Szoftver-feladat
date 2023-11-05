@@ -1,0 +1,14 @@
+C:\Users\tomio\source\repos\Szoftver\Szoftver\bin\Debug\net6.0\Szoftver.exe
+C:\Users\tomio\source\repos\Szoftver\Szoftver\bin\Debug\net6.0\Szoftver.deps.json
+C:\Users\tomio\source\repos\Szoftver\Szoftver\bin\Debug\net6.0\Szoftver.runtimeconfig.json
+C:\Users\tomio\source\repos\Szoftver\Szoftver\bin\Debug\net6.0\Szoftver.dll
+C:\Users\tomio\source\repos\Szoftver\Szoftver\bin\Debug\net6.0\Szoftver.pdb
+C:\Users\tomio\source\repos\Szoftver\Szoftver\obj\Debug\net6.0\Szoftver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomio\source\repos\Szoftver\Szoftver\obj\Debug\net6.0\Szoftver.AssemblyInfoInputs.cache
+C:\Users\tomio\source\repos\Szoftver\Szoftver\obj\Debug\net6.0\Szoftver.AssemblyInfo.cs
+C:\Users\tomio\source\repos\Szoftver\Szoftver\obj\Debug\net6.0\Szoftver.csproj.CoreCompileInputs.cache
+C:\Users\tomio\source\repos\Szoftver\Szoftver\obj\Debug\net6.0\Szoftver.dll
+C:\Users\tomio\source\repos\Szoftver\Szoftver\obj\Debug\net6.0\refint\Szoftver.dll
+C:\Users\tomio\source\repos\Szoftver\Szoftver\obj\Debug\net6.0\Szoftver.pdb
+C:\Users\tomio\source\repos\Szoftver\Szoftver\obj\Debug\net6.0\Szoftver.genruntimeconfig.cache
+C:\Users\tomio\source\repos\Szoftver\Szoftver\obj\Debug\net6.0\ref\Szoftver.dll
